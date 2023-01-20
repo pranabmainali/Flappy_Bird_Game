@@ -88,7 +88,7 @@
 
 .titleText {
     font-weight: 800;
-    font-size: 20px;
+    font-size: 18px;
 }
 /* animation for the black obstacle: moving it from right to left infinitely */ 
 @-webkit-keyframes rightToLeftMove {
