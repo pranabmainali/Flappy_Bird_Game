@@ -18,7 +18,7 @@ const restartAnimations = () => {
       animation.cancel();
       animation.play();
     });
-  };
+  };;
 
 /* change the position of the hole in the obstacle after every animation */
 obstacle.addEventListener("animationiteration", () => {
